@@ -14,7 +14,7 @@ A comprehensive fraud detection system built with Next.js 14, Supabase, and Type
 
 5.Vineet 24BCE1611
 
-## 🚀 Features
+##  Features
 
 - **Real-time Fraud Detection**: AI-powered algorithms detect fraudulent transactions in real-time
 - **Comprehensive Dashboard**: Complete overview of transactions, alerts, and system performance
@@ -28,7 +28,7 @@ A comprehensive fraud detection system built with Next.js 14, Supabase, and Type
 - **Rule Engine**: Configurable fraud detection rules
 - **Responsive Design**: Works perfectly on desktop and mobile devices
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: Next.js 14, React 18, TypeScript
 - **Backend**: Supabase (PostgreSQL, Auth, Real-time)
@@ -37,13 +37,13 @@ A comprehensive fraud detection system built with Next.js 14, Supabase, and Type
 - **Authentication**: Supabase Auth with SSR
 - **Database**: PostgreSQL with Row Level Security
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js 18+ 
 - npm or yarn
 - Supabase account
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the Repository
 
@@ -86,7 +86,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to see the application.
 
-## 📊 Database Schema
+##  Database Schema
 
 The system includes the following main tables:
 
@@ -99,7 +99,7 @@ The system includes the following main tables:
 - **performance_metrics**: System performance data
 - **audit_logs**: Complete audit trail
 
-## 🔐 Authentication
+##  Authentication
 
 The system uses Supabase Auth with:
 
@@ -109,7 +109,7 @@ The system uses Supabase Auth with:
 - Automatic user profile creation
 - Session management with SSR
 
-## 🎯 Key Features
+##  Key Features
 
 ### Dashboard Overview
 - Real-time transaction statistics
@@ -141,7 +141,7 @@ The system uses Supabase Auth with:
 - Access control management
 - Audit trail tracking
 
-## 🚀 Deployment
+##  Deployment
 
 ### Deploy to Vercel
 
@@ -157,7 +157,7 @@ NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 \`\`\`
 
-## 📱 Mobile Support
+##  Mobile Support
 
 The application is fully responsive and works on:
 - Desktop computers
@@ -165,7 +165,7 @@ The application is fully responsive and works on:
 - Mobile phones
 - All modern browsers
 
-## 🔧 Development
+##  Development
 
 ### Project Structure
 
@@ -192,7 +192,7 @@ The application is fully responsive and works on:
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -200,18 +200,18 @@ The application is fully responsive and works on:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
+##  License
 
 This project is licensed under the team Godzilla.
 
-## 🆘 Support
+##  Support
 
 For support and questions:
 - Check the documentation
 - Open an issue on GitHub
 - Contact the development team
 
-## 🔄 Updates
+##  Updates
 
 The system includes:
 - Automatic security updates
