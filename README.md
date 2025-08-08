@@ -2,6 +2,13 @@
 
 A comprehensive fraud detection system built with Next.js 14, Supabase, and TypeScript. Features real-time transaction monitoring, AI-powered fraud detection, and a complete dashboard for fraud analysts.
 
+#Team Godzilla
+1.Ayush 24BCE1548
+2.Prince 24BCE1606
+3.Shobhit 24BCE1535    
+4.Om Kurkute 24BCE5159    
+5.Vineet 24BCE1611
+
 ## 🚀 Features
 
 - **Real-time Fraud Detection**: AI-powered algorithms detect fraudulent transactions in real-time
@@ -190,7 +197,7 @@ The application is fully responsive and works on:
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the team Godzilla.
 
 ## 🆘 Support
 
@@ -209,4 +216,4 @@ The system includes:
 
 ---
 
-Built with ❤️ using Next.js, Supabase, and TypeScript.
+Built using Next.js, Supabase, and TypeScript.
